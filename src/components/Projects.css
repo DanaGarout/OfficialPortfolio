@@ -1,0 +1,63 @@
+.project-section{
+    background-color: #1db954;
+    padding: 50px;
+}
+
+.project-link{
+    color: #b3b3b3;
+    font-weight: 500;
+    text-decoration: none;
+    
+}
+.card-title{
+    text-align: center;
+    color: #535353;
+}
+.project-link:hover{
+    color: #b3b3b3;
+}
+Button.pro-btn:hover{
+    background-color: #535353;
+    border: 1px solid #535353;
+    
+}
+Button.pro-btn{
+    background-color: #1db954;
+    
+    border: 1px solid #1db954;
+}
+.project-btn{
+    margin-top: 15px;
+    text-align: center;
+    
+    
+    
+}
+.project{
+    background-color: #b3b3b3;
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.card{
+    padding:20px;
+    margin: 10px;
+    background-color: #b3b3b3;
+    
+}
+.card:hover{
+    border: 5px solid #535353;
+
+}
+h3.project-title{
+    text-align: center;
+    color: #535353;
+}
+@media only screen and (max-width: 1064px){
+   
+}
