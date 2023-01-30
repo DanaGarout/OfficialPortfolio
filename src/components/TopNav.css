@@ -22,9 +22,9 @@
 
 .icons{
     color: #1db954;
-    font-size: 40px;
-    width: 40px;
-    height: 40px; 
+    font-size: 35px;
+    width: 35px;
+    height: 35px; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .icons:hover{
@@ -52,6 +52,10 @@ ul{
 @media only screen and (max-width: 1064px){
     .middle-part{
         visibility: hidden;
+    }
+    .icons{
+        width: 20px;
+        height: 20px;
     }
     
 

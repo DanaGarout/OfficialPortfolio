@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import about from '../assets/about.jpg';
-import { RiProfileLine } from "react-icons/ri";
+
 
 export const About = () => {
   return (
@@ -23,7 +23,7 @@ export const About = () => {
             </div>
             <div className='resume-div'>
                 <a target="_blank" rel="noreferrer" className='resume' href='https://drive.google.com/file/d/1nLDG_opHVbpFU-YsgSZqYo9B_n-GoC40/view?usp=sharing'>
-                <RiProfileLine></RiProfileLine> Resume
+                 Resume
                 </a>
             </div>
         </div>

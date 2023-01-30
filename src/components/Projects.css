@@ -50,14 +50,18 @@ Button.pro-btn{
     background-color: #b3b3b3;
     
 }
-.card:hover{
-    border: 5px solid #535353;
 
-}
 h3.project-title{
     text-align: center;
     color: #535353;
 }
 @media only screen and (max-width: 1064px){
-   
+    .projects{
+        display: flex;
+        flex: row;
+        align-items: center;
+        justify-content: center;
+        
+        
+    }
 }
