@@ -19,7 +19,7 @@ export const TopNav = () => {
             <div className='logo-side'> 
             </div>
 
-            <div className='middle-part'>
+            {/* <div className='middle-part'>
                     <Nav className="me-auto">
                     <ul className="navbar d__flex">
                         <a className="anc-list active" href='#Home'><li className='focus nav__items mx__15'>Home</li></a>
@@ -29,7 +29,7 @@ export const TopNav = () => {
                     </ul>
                 </Nav>
 
-            </div>
+            </div> */}
             
           <div className='icons-side'>
           <Nav >

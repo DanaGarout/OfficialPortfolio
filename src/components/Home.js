@@ -11,7 +11,7 @@ export const Home = () => {
         <div className='left-side'>
             <div className='titles'>
                 <h1 className='home__text pz__10'>Welcome to my world</h1>
-                <h2 className='home__text pz__10'>Hi, Im Dana Garout</h2>
+                <h2 className='home__text pz__10'>Hi, I'm Dana Garout</h2>
                 <h3 className='home__text sweet pz__10'>Frontend Developer</h3>
                 <h4 className='home__text pz__100'> </h4>
             </div>
