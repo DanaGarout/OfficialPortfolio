@@ -11,14 +11,14 @@ export const About = () => {
                 <h1 className='me-title'>About Me</h1>
             </div>
             <div className='about-para'>
-                <p>I'm in my last year at Goldsmiths, University of London, majoring in computer science with a concentration on web and mobile development.
-                     My main focus is on developing websites and mobile applications, and frontend development is one of my main passions.</p>
+                <p>I'm at my senior year at Goldsmiths, University of London, majoring in computer science (web and mobile development).
+                     My major interest is in developing websites and mobile applications, and frontend development is one of my main passions.</p>
 
             </div>
             <div className='para-2 about-para'>
-                <p>I'm skilled in using the react library to create well-structured, gorgeous, and responsive websites.
-                I love creating stunning, responsive, and useful online applications as a frontend developer.
-                For making gorgeous site designs, I use Figma.
+                <p>I'm skilled in using the react library to create well-structured, delicate, and responsive websites.
+                I am very passionate in creating stunning, responsive, and useful online applications as a frontend developer.
+                I use Figma for making dazzling site designs.
                 </p>
             </div>
             <div className='resume-div'>
