@@ -118,7 +118,7 @@ export const Projects = () => {
           
          <div className='project-btn'>
          <Button className="pro-btn" variant="primary">
-            <a className="project-link" href={card.link}>View</a>
+            <a rel="noreferrer" target="_blank" className="project-link" href={card.link}>View</a>
             </Button>
 
             </div> 
