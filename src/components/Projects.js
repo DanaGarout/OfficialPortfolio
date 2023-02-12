@@ -18,9 +18,15 @@ import project12 from '../assets/projects/project12.png';
 import project13 from '../assets/projects/project13.png';
 import project14 from '../assets/projects/project14.png';
 import project15 from '../assets/projects/project15.png';
+import project from '../assets/projects/project16.png';
 
 export const Projects = () => {
     const [cards] = useState([
+        {
+            title:'CheckList App',
+            projectImg: project,
+            link:'https://check-list-silk.vercel.app/'
+        },
         {
             title:'Restaurant website',
             projectImg: project1,
@@ -96,6 +102,7 @@ export const Projects = () => {
             projectImg: project14,
             link:'https://sidebar-jet.vercel.app/'
         }
+        
         
 
 
